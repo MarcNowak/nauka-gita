@@ -8,3 +8,9 @@ p { font-size: 20px;
     color: green;
     font-family: Tahoma;
 }
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: brown;
+}
